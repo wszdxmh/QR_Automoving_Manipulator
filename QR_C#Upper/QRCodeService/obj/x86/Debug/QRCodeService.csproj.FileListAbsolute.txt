@@ -1,0 +1,17 @@
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.MainForm.resources
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.Properties.Resources.resources
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.exe
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.pdb
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.exe
+G:\QQPCmgr\桌面\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.pdb
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.exe
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.pdb
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.exe
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.pdb
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.csprojResolveAssemblyReference.cache
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.MainForm.resources
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.Properties.Resources.resources
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\x86\Debug\QRCodeService.csproj.GenerateResource.Cache

@@ -1,0 +1,47 @@
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.exe
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.pdb
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.MainForm.resources
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.Properties.Resources.resources
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csproj.GenerateResource.Cache
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.exe
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.pdb
+H:\C#\QRCodeService v1.2\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csprojResolveAssemblyReference.cache
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.exe
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.pdb
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.exe
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.pdb
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csprojResolveAssemblyReference.cache
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.MainForm.resources
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.Properties.Resources.resources
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csproj.GenerateResource.Cache
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.dll
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.DirectShow.dll
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.dll
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.xml
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.xml
+H:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.DirectShow.xml
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.exe
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.pdb
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.exe
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.pdb
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.dll
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.DirectShow.dll
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.dll
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.xml
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.xml
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.DirectShow.xml
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csprojResolveAssemblyReference.cache
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.MainForm.resources
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.Properties.Resources.resources
+F:\Desktop\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csproj.GenerateResource.Cache
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.exe
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.pdb
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.exe
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\QRCodeService.pdb
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.xml
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.xml
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\bin\Debug\AForge.Video.DirectShow.xml
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csprojResolveAssemblyReference.cache
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.MainForm.resources
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.Properties.Resources.resources
+F:\Desktop\毕业设计-外接\广洪毕业设计\QRCodeService\QRCodeService\QRCodeService\obj\Debug\QRCodeService.csproj.GenerateResource.Cache
